@@ -79,8 +79,8 @@ addCompilerPlugin("org.scala-native" % "nscplugin" % nativeVersion cross CrossVe
 
 ### Dependencies
 ```scala
-libraryDependencies += "tech.sparse" %%  "pine" % "0.1.3"  // JVM
-libraryDependencies += "tech.sparse" %%% "pine" % "0.1.3"  // JavaScript, LLVM
+libraryDependencies += "tech.sparse" %%  "pine" % "0.1.5"  // JVM
+libraryDependencies += "tech.sparse" %%% "pine" % "0.1.5"  // JavaScript, LLVM
 ```
 
 ## Links
